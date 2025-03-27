@@ -38,7 +38,7 @@ function App() {
 
       {/* Footer Section */}
       <footer className="footer">
-        <p>© 2024 Your Business Name | All Rights Reserved</p>
+        <p>© 2025 HQ Detailers | All Rights Reserved</p>
       </footer>
     </div>
   );
